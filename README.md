@@ -2,6 +2,6 @@
 
 #What you're about to read next will be interesting.
 
-Interesting.
+Interesting. 
 
 [Response 1](https://daskeete.github.io/Response_1/)

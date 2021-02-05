@@ -4,4 +4,4 @@
 
 Interesting. 
 
-[Response 1](https://daskeete.github.io/Response_1/)
+[Informal_Response_1](https://daskeete.github.io/Informal_Response_1/)

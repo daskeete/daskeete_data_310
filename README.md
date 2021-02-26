@@ -16,6 +16,8 @@ Interesting.
 
 [February21_Response](https://daskeete.github.io/convolutions_pooling/)
 
+[February26_Response](https://daskeete.github.io/Feb26Response/)
+
 
 
 [Projects](https://daskeete.github.io/Projects_Folder/)

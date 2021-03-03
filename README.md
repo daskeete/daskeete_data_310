@@ -20,4 +20,4 @@ Interesting.
 
 
 
-[Projects](https://daskeete.github.io/Projects_Folder/)
+[Projects Folder](https://daskeete.github.io/Projects_Folder/)

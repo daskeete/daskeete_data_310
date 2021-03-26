@@ -18,6 +18,10 @@ Interesting.
 
 [February26_Response](https://daskeete.github.io/Feb26Response/)
 
+[March_10_Informal_Response]( https://daskeete.github.io/March_10_Informal_Response/)
+
+[March_22_Informal_Response](https://daskeete.github.io/March_22_Informal_Response/)
+
 
 
 
